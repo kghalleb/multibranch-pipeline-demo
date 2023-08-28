@@ -4,3 +4,4 @@ Jenkins Multibranch Pipeline Example Repo
 # Done by karim
 # install smee
 # Hello everybody 
+# Test pipeline
